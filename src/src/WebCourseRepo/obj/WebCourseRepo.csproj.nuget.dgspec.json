@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joshu\\Documents\\ATOS\\WebCourseRepo\\WebCourseRepo\\WebCourseRepo.csproj": {}
+    "C:\\Users\\Joshu\\Documents\\ATOS\\WebCourseRepo\\src\\src\\WebCourseRepo\\WebCourseRepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joshu\\Documents\\ATOS\\WebCourseRepo\\WebCourseRepo\\WebCourseRepo.csproj": {
+    "C:\\Users\\Joshu\\Documents\\ATOS\\WebCourseRepo\\src\\src\\WebCourseRepo\\WebCourseRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joshu\\Documents\\ATOS\\WebCourseRepo\\WebCourseRepo\\WebCourseRepo.csproj",
+        "projectUniqueName": "C:\\Users\\Joshu\\Documents\\ATOS\\WebCourseRepo\\src\\src\\WebCourseRepo\\WebCourseRepo.csproj",
         "projectName": "WebCourseRepo",
-        "projectPath": "C:\\Users\\Joshu\\Documents\\ATOS\\WebCourseRepo\\WebCourseRepo\\WebCourseRepo.csproj",
+        "projectPath": "C:\\Users\\Joshu\\Documents\\ATOS\\WebCourseRepo\\src\\src\\WebCourseRepo\\WebCourseRepo.csproj",
         "packagesPath": "C:\\Users\\Joshu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joshu\\Documents\\ATOS\\WebCourseRepo\\WebCourseRepo\\obj\\",
+        "outputPath": "C:\\Users\\Joshu\\Documents\\ATOS\\WebCourseRepo\\src\\src\\WebCourseRepo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joshu\\AppData\\Roaming\\NuGet\\NuGet.Config",

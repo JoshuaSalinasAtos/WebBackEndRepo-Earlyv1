@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aHOU1PCWpAIXEDxNn35JSOgKP357MtSQao6FohUgat9aLyWxs0HpiA/CdwLno6txdzXzZU4k4XvKk50TMUJC7w==",
+  "dgSpecHash": "/088nPPZ1h3jY521TdL1UXK+KSkOAbybxbKiiT26IjMQBnAphtPyM8akWFJaWPLKYwJYcSQLFZnPyYG3DE5Ejg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joshu\\Documents\\ATOS\\WebCourseRepo\\WebCourseRepo\\WebCourseRepo.csproj",
+  "projectFilePath": "C:\\Users\\Joshu\\Documents\\ATOS\\WebCourseRepo\\src\\src\\WebCourseRepo\\WebCourseRepo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joshu\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Joshu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
